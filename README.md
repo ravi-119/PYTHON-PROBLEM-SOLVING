@@ -1,1 +1,1 @@
-# United-University-Python-Problem-Solving-Technique-Assignment
+Python-Problem-Solving
