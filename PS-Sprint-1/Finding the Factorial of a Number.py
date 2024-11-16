@@ -11,3 +11,4 @@ def factorial(n):
 
 n = int(input("Enter a Number: "))
 factorial(n)
+
