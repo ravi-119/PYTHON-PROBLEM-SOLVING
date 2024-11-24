@@ -1,4 +1,4 @@
-# find out divisor of a number // proper factor
+# find out divisor of a number // proper factor/divisors 
 num = int(input("Enter a number : "))
 sumofdivisors = []
 
