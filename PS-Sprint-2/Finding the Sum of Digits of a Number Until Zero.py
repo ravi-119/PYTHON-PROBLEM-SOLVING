@@ -8,7 +8,7 @@ def sum_of_digits_until_zero(n):
         n = digit_sum  # Update n with the new sum
     return n  # Return the final single-digit sum
 
-# Example usage:
+# Calling function 
 num = int(input("Enter a number: "))  # Get user input and convert to integer
 result = sum_of_digits_until_zero(num)  # Call function to compute result
 print(f"Sum of digits until a single digit: {result}")  # Print final output
