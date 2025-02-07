@@ -6,6 +6,7 @@ def generate_multiplication_table(start, end, upto=10):
             print(f"{num} x {i} = {num * i}")
         print("-" * 25)
 
+
 # Example Usage:
 start_num = int(input("Enter the start number: "))
 end_num = int(input("Enter the end number: "))
