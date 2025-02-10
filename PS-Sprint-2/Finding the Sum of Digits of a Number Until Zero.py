@@ -12,3 +12,8 @@ def sum_of_digits_until_zero(n):
 num = int(input("Enter a number: "))  # Get user input and convert to integer
 result = sum_of_digits_until_zero(num)  # Call function to compute result
 print(f"Sum of digits until a single digit: {result}")  # Print final output
+
+"""
+Enter a number: 123
+Sum of digits until a single digit: 6
+"""
